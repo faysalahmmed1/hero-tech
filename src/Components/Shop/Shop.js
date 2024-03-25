@@ -33,7 +33,8 @@ const Shop = () => {
                         }
                     </div>
                     <div className='Clothes-container'>
-                        <h1>Selected Clothes: {cart.length}</h1>
+                        <h1 className='clothes-text'>Selected Clothes: {cart.length}</h1>
+                        
                         <button className='button-1'>Choose 1 for me</button>
                         <br />
                         <button className='button-2'>Choose Again</button>

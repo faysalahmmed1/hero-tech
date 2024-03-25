@@ -55,5 +55,62 @@
         "img": "https://i.ibb.co/q0X3cwr/iphone-14-pro-black-228x228.webp"
     
 
+    },
+    {
+        "id": "7",
+        "name": "iphone-14-pro",
+        "price": 320,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/Fn0rPwH/iphone-14-pro-deep-purple-228x228.webp"
+        
+    
+    },
+    {
+        "id": "8",
+        "name": "iphone-15",
+        "price": 420,
+        "stock": 30,
+        "ratings": 4.0,
+        "img": "https://i.ibb.co/YLHqnDN/iphone-15-blue-02-228x228.webp"
+        
+    
+    },
+    {
+        "id": "9",
+        "name": "iphone-15-pro-max",
+        "price": 520,
+        "stock": 17,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/qmF4j2V/iphone-15-pro-max-blue-titanium-official-228x228.jpg"
+
+    },
+    {
+        "id": "10",
+        "name": "tab-m8",
+        "price": 220,
+        "stock": 17,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/nLtw78n/tab-m8-gen-4-02-228x228.webp"
+        
+    
+    },
+    {
+        "id": "11",
+        "name": "iphone-14-midnight",
+        "price": 220,
+        "stock": 25,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/92qWv0c/iphone-14-midnight-228x228.webp"
+    },
+    {
+        "id": "12",
+        "name": "iphone-14-pro-black",
+        "price": 350,
+        "stock": 10,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/q0X3cwr/iphone-14-pro-black-228x228.webp"
+    
+
     }
 ]

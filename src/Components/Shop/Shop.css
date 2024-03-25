@@ -37,6 +37,8 @@
     background-color: rgb(106, 106, 243);
     margin: 10px;
     border-radius: 15px;
-    height: 480px;
-   
+    height: 480px; 
+}
+.clothes-text{
+    color: rgba(252, 252, 252, 0.952);
 }

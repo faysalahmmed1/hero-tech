@@ -1,13 +1,14 @@
 .blogs-container{
-    background-color: rgb(145, 212, 86);
+    background-color: rgb(63, 77, 101);
     margin: 20px;
+    margin-top: 20px;
     border-radius: 10px;
 }
 .article-A{
     background-color: rgb(183, 205, 247);
     margin: 20px;
-    margin-top: 10px;
-    padding: 20px;
+    margin-top: 20px;
+    padding: 10px;
     border-radius: 20px;
 }
 .article{
