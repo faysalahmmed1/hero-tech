@@ -1,0 +1,17 @@
+.product-container{
+    background-color: rgb(139, 178, 145);
+    margin: 15px;
+    border-radius: 15px;
+}
+.product-container img{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.cart-button{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 5px;
+    background-color: rgb(86, 66, 202);
+    color: #ffffff;
+}

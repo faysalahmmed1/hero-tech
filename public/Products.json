@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/Fn0rPwH/iphone-14-pro-deep-purple-228x228.webp"
+        
+    
+    },
+    {
+        "id": "2",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/YLHqnDN/iphone-15-blue-02-228x228.webp"
+        
+    
+    },
+    {
+        "id": "3",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/qmF4j2V/iphone-15-pro-max-blue-titanium-official-228x228.jpg"
+
+    },
+    {
+        "id": "4",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/nLtw78n/tab-m8-gen-4-02-228x228.webp"
+        
+    
+    },
+    {
+        "id": "5",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/92qWv0c/iphone-14-midnight-228x228.webp"
+    },
+    {
+        "id": "6",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img": "https://i.ibb.co/q0X3cwr/iphone-14-pro-black-228x228.webp"
+    
+
+    }
+]
