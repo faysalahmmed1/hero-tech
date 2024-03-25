@@ -10,7 +10,7 @@ const Shop = () => {
             .then(res => res.json())
             .then(data => setProducts(data));
 
-    }, []);
+    }, []); 
     const handlebutton = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
@@ -27,7 +27,7 @@ const Shop = () => {
                     ></Products>)
                 }
             </div>
-            <div>
+            <div className='Clothes-container'>
                 <h1>Selected Clothes: {cart.length}</h1>
                 <button className='button-1'>Choose 1 for me</button>
                 <br />
