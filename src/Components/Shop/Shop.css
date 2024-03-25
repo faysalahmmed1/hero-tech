@@ -22,7 +22,7 @@
     background-color: orange;
 }
 .button-2{
-    background-color: rgb(72, 196, 72);
+    background-color: rgb(240, 25, 25);
     padding: 20px;
     border: none;
     border-radius: 20px;
@@ -38,6 +38,5 @@
     margin: 10px;
     border-radius: 15px;
     height: 480px;
-    position: sticky;
-    top: 0;
+   
 }

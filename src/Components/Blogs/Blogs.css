@@ -1,0 +1,39 @@
+.blogs-container{
+    background-color: rgb(145, 212, 86);
+    margin: 20px;
+    border-radius: 10px;
+}
+.article-A{
+    background-color: rgb(183, 205, 247);
+    margin: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.article{
+    margin: 20px;
+    font-size: large;
+}
+.article-B{
+    background-color: rgb(183, 205, 247);
+    margin: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.props-state-container{
+    display: flex;
+    background-color: rgb(171, 196, 148);
+    border-radius: 10px;
+    margin: 20px;
+}
+.state{
+    margin: 10px;
+}
+.article-C{
+    background-color: rgb(183, 205, 247);
+    margin: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}

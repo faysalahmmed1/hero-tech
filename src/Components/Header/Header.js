@@ -4,10 +4,10 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div>
+        <div className='main-header'>
             <nav className='header-nav'>
                 <img src={logo} alt="" />
-                <h1 className='hearder-line'>Welcome To Hero Tech</h1>
+                <h1 className='header-line'>Welcome To Hero Tech</h1>
                 <div className='Router-A'>
                     <a href="">Shop</a>
                     <a href="">Order</a>
